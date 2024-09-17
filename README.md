@@ -1,44 +1,79 @@
-# Anon - An eCommerce Website
+# Fullstack-Ecommerce
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+## :moneybag: Eshop.com  :moneybag:
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+eShop.com is an e-Commerce website that enables users to shop through variety of products(electronic / household / fashion) , add a product to their cart, and checkout. A user can either register their own username and password or Sign in With Google, or they can simply use the "Guest Login" button to navigate the website without registering.
 
-## Demo
+![download](https://user-images.githubusercontent.com/81632171/199007839-77a2f0cd-9b25-4dec-a141-30155fbc4a20.png)
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Summary
+
+- :star: [Website Link](#website-link)
+- :star: [Getting Started](#getting-started)
+- :star: [Prerequisites](#prerequisites)
+- :star: [Installing](#installing)
+- :star: [Built With](#built-with)
+- :star: [Software Developer](#software-developer)
+
+## LIVE-Website-Link
+
+[EShop.com](https://eshop-firebase.vercel.app/)
+
+## Getting-Started
+
+Feel free to fork the project and change it to your likings. Try it out by cloning the repo to your local machine or download the zip
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+You need preferably the latest version of Chrome, and text editor.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+#### Go here for Chrome: https://www.google.com/chrome/
 
-## Installing Anon
+#### VSCode is my go to: https://code.visualstudio.com/
 
-To install **Anon**, follow these steps:
+## Installing
 
-Linux and macOS:
+To get started follow this guide:
 
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+#### FOR DEVELOPMENT PURPOSES
+
+In your terminal clone repo to your local machine using git clone:
+
+```
+git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
 ```
 
-Windows:
+Move to your newly cloned repo by entering the following in your terminal:
 
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
+$ cd Fullstack-Ecommerce && yarn or npm install
 ```
 
-## Contact
+To Run Project:-
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+```
+$ yarn dev or npm run dev 
+```
 
-## License
+To open all project files from terminal using VSCode just tpye and enter:
 
-This project is **free to use** and does not contains any license.
+```
+$ code .
+```
+
+## Built With
+
+- React Js
+- Redux Toolkit 
+- Firebase 
+- Node.js
+- Express.js
+- Stripe
+- Chart Js
+- Email Js
+- Tailwind CSS
+- Daisy UI
+
+## Software Developer
+
+- **Kartik Pavan**
